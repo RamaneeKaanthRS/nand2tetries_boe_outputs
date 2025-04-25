@@ -1,4 +1,4 @@
-// The output is displayed as Truth Table
+// The output is displayed as End of Script Line
 /*
 Name     :   Ramanee Kaanth R S
 USN      :   2102408034
